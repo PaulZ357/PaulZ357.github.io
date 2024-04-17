@@ -1,2 +1,2 @@
 # PaulZ357.github.io
-My website
+This is my website for CSC109.
